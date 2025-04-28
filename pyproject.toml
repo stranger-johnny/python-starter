@@ -3,7 +3,7 @@ name = "python-starter"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "stranger-johnny",email = "kurokuro1358@gmail.com"}
+    {name = "stranger-johnny",email = "*****@*******"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
